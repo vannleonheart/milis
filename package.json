@@ -1,0 +1,30 @@
+{
+    "name": "milis",
+    "version": "0.1.0",
+    "description": "Manage mailing list",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "mail",
+        "mailing",
+        "milis",
+        "mailchimp"
+    ],
+    "engines": {
+        "node": ">=7"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vannleonheart/milis.git"
+    },
+    "author": {
+        "name": "Bontor Sianipar",
+        "email": "vannleonheart@gmail.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "mailchimp-api-v3": "^1.12.0"
+    }
+}
